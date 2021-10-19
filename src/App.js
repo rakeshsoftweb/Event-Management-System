@@ -47,7 +47,7 @@ function App(props) {
           {showSideBar ?
             <div className="row">
               <div className="col-md-12 header-row text-white">
-                <Header />
+                <Header />there is some change here
               </div>
             </div> : null}
           <div className="row">
